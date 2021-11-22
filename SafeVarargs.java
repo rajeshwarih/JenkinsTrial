@@ -1,4 +1,3 @@
-package com.trial.interviews;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -15,7 +14,7 @@ public class SafeVarargs {
 		
 		list1.add("hello");
 		list2.add("hi");
-		list3.add("bye");
+		list3.add("byeeeeeeeeeeeeeeeeeeeee");
 				
 		print(list1,list2,list3);
 		
