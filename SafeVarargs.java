@@ -13,7 +13,7 @@ public class SafeVarargs {
 		List<String> list3 = new ArrayList<>();
 		
 		list1.add("hello");
-		list2.add("hi");
+		list2.add("hiiii");
 		list3.add("byeeeeeeeeeeeeeeeeeeeee");
 				
 		print(list1,list2,list3);
